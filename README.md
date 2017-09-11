@@ -1,7 +1,7 @@
 # Music-Genre-Identification
 Machine Learning to identify music genres
 
-This project utilizes the data and techniques from the [Free Music Archive](https://github.com/mdeff/fma) to predict genres given an audio waveform in an MP3 file.
+This project utilizes data from the [Free Music Archive](https://github.com/mdeff/fma) to predict genres given an audio waveform in an MP3 file.
 
 ### Requirements:
 - Python
