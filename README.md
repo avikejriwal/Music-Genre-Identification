@@ -12,4 +12,6 @@ This project utilizes data from the [Free Music Archive](https://github.com/mdef
 - [FFMPEG](https://www.ffmpeg.org/)
 
 ### Files:
-`Work.ipynb`: All the cleaning, signal processing and modeling is done in this notebook.
+`Work.ipynb`: All the cleaning, signal processing and modeling is done in this notebook.  
+`Model.ipynb`: Consolidated the signal processing and the pickled model if you're interested in playing with the model.  
+`model.pkl`: Pickled model: index 0 is the trained model, index 1 is the label decoder (see sklearn documentation for details)
